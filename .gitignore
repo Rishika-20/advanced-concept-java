@@ -1,0 +1,8 @@
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+AdvancedJavaAssignment II/.idea/.gitignore
+
